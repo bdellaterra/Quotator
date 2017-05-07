@@ -1,0 +1,8 @@
+{
+  "name": "quotator",
+  "version": "0.1.0",
+  "description": "Quote generator",
+  "main": "index.js",
+  "author": "Brian Dellaterra",
+  "license": "UNLICENSED"
+}
