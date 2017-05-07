@@ -4,5 +4,5 @@
   "description": "Quote generator",
   "main": "index.js",
   "author": "Brian Dellaterra",
-  "license": "UNLICENSED"
+  "license": "LGPL-3.0"
 }
